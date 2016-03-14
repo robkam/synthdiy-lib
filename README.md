@@ -1,4 +1,3 @@
 # synthdiylib
-Synthesizer Devices - ICs and misc electronic music parts library for Cadsoft Eagle
-Created by Jay J Schwichtenberg
+Synthesizer Devices - ICs and misc electronic music parts library for Cadsoft Eagle. Created by Jay J Schwichtenberg
 
